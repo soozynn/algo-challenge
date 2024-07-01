@@ -3,3 +3,6 @@
 
 # Add Test Cases
 생각하는 경우의 수에 대한 테스트를 추가.
+
+
+# https://github.com/orgs/90-sKids/repositories 레포지토리로 변경
